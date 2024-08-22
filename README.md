@@ -14,15 +14,9 @@
 
 💬 Ask me about: Web Security, Mobile Security, Vulnerability Assessment
 
-📫 How to reach me: [example@gmail.com](mailto:example@gmail.com)
+📫 How to reach me: [Linkedin](https://www.linkedin.com/in/punit-shukla-0b43b2223?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-👨‍💻 All of my projects are available at: [Portfolio](#)
-
-📝 I regularly write articles on: [Blog](#)
-
-📄 Know about my experiences: [Resume](#)
-
-⚡ Fun fact: I think I am funny 😄
+👨‍💻 All of my projects are available at: [Portfolio](https://punitshukla1.github.io/PunitShuklaPortfolio/)
 
 ---
 
